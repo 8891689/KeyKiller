@@ -12,7 +12,7 @@ Our Secp256k1 implementation draws upon the excellent projects of Jean-Luc Pons/
 
 3. Although the bottom and top layers have been reimplemented, all logical commands are retained and there are not many changes from the original version.
 
-4. I'm sorry, please forgive me. Developing more programs requires time and financial support. This program is only available to members who have purchased a compressed password. The source code will be released in 5 years.
+4. I'm sorry, please forgive me. Developing more programs requires time and financial support. This program is only available to members who have purchased a compressed password. The source code will be released in 5 years.All encrypted repositories have the same password, and you only need to pay once to use all encrypted programs.
 
 5. Next, we will use data for comparison to see the effects of optimization.
 
